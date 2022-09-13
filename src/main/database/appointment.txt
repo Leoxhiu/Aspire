@@ -1,0 +1,2 @@
+ap000001,ma000001,cu000001,te000001,fe000001,First appointment in Aspire system,01/03/2022,10:00,large,3,Three large appliances,0
+ap000002,ma000001,cu000001,te000001,fe000002,Prebook,01/03/2022,12:00,small,3,Testing,0
